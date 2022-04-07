@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisruptorInCalc", "DisruptorInCalc\DisruptorInCalc.csproj", "{C4F8464C-4E5D-4CCD-AAD4-E2D6F4EE3A13}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisruptorInCalc", "src\DisruptorInCalc\DisruptorInCalc.csproj", "{C4F8464C-4E5D-4CCD-AAD4-E2D6F4EE3A13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
