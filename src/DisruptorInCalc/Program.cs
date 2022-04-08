@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using DisruptorInCalc.Domain;
+
+
+CalculationService.BuildService()
+    .ProcessCalculationRequest(args);
+
+Console.WriteLine("The app has started");
+Console.WriteLine("Wait the result or press any key to exit.\n");
+Console.ReadKey();
